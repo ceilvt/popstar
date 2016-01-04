@@ -1,0 +1,40 @@
+{
+	"groups":[{
+			"keys":"diamond1_png,diamond2_png,diamond3_png,diamond4_png,bg",
+			"name":"preload"
+		}],
+	"resources":[
+		{
+			"name":"diamond1_png",
+			"type":"image",
+			"url":"assets/diamond1.png"
+		},
+		{
+			"name":"diamond2_png",
+			"type":"image",
+			"url":"assets/diamond2.png"
+		},
+		{
+			"name":"diamond3_png",
+			"type":"image",
+			"url":"assets/diamond3.png"
+		},
+		{
+			"name":"diamond4_png",
+			"type":"image",
+			"url":"assets/diamond4.png"
+		}
+,
+		{
+			"name":"diamond4_png",
+			"type":"image",
+			"url":"assets/diamond4.png"
+		}
+,
+		{
+			"name":"bg",
+			"type":"image",
+			"url":"assets/bg.jpg"
+		}
+	]
+}
